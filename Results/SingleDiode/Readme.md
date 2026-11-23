@@ -1,1 +1,1 @@
-Results obtained for the simple diode (SDSCM).
+Results obtained for the single diode (SDSCM).
