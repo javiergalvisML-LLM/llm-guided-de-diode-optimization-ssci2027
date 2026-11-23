@@ -1,1 +1,1 @@
-Convergence curves of LLM-GOS on the BBO benchmark functions with dimension = 10.
+Convergence curves of LLM-GOS on the BBO benchmark functions with dimension = 5.
