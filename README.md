@@ -7,7 +7,7 @@ tation and crossover operators in the Differential Evolution (DE) algorithm. The
 with the LLM acting as a high-level selector among a predefined set of operator combinations. An external mechanism is employed
 to monitor the objective function and population diversity. The LLM is activated only when stagnation or a significant loss of
 diversity is detected. In light of the present search stage and the historical performance of the evaluated configurations, the LLM
-determines the subsequent operator combination. The proposed strategy is evaluated using the BBOB benchmark suite and on a
+determines the subsequent operator combination. The proposed strategy is evaluated using the BBO benchmark suite and on a
 double-diode photovoltaic model. This approach enables an analysis of the proposal’s overall optimization behavior and efficiency
 in a nonlinear inverse problem. The findings indicate that the proposed framework reduces reliance on manual configurations
 and facilitates the adaptation of the DE algorithm to real-world engineering problems.
